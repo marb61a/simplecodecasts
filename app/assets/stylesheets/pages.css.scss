@@ -1,3 +1,17 @@
 // Place all the styles related to the pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
+body{
+  // Gradient from http://uigradients.com/#
+  background: -webkit-linear-gradient(90deg, #360033 10%, #0b8793 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #360033 10%, #0b8793 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #360033 10%, #0b8793 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #360033 10%, #0b8793 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #360033 10%, #0b8793 90%); /* W3C */
+        
+} 
