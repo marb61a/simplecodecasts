@@ -19,7 +19,7 @@ $(document).ready(function(){
         exp_year: expYear
       }, stripeResponseHandler);
     }
-    retrun false;
+    return false;
   });
   
   function stripeResponseHandler(status, response){
