@@ -7,7 +7,4 @@ This is a Ruby on Rails App, it uses the following technologies
 
 It is a demo rails site which can allow users to register as free or pro users and users can add\edit profiles etc.
 
-The finished site is here
-http://dev-link.herokuapp.com
-
 
